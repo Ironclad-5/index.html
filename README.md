@@ -56,7 +56,7 @@
 
   <!-- Requiremet-1.N -->
   <h2>Hacksaw Ridge</h2>
-    <img src = "dog.png">
+    <img src = "hacksawridge.jpg">
 
  <!-- Requirement-1.C -->
   <footer>
