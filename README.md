@@ -56,7 +56,8 @@
 
   <!-- Requiremet-1.N -->
   <h2>Hacksaw Ridge</h2>
-    <img src = "hacksawridge.jpg">
+    <img src = "Screenshot 2025-09-21 231408.png"
+      height = 100>
 
  <!-- Requirement-1.C -->
   <footer>
