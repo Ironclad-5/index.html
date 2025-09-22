@@ -54,11 +54,13 @@
       <li>Watching favorite movies</li>
   </ul>
 
-  <!-- Requiremet-1.N -->
-  <h2>Hacksaw Ridge</h2>
-    <img src = "Screenshot 2025-09-21 231408.png"
-      height = 100>
+<!-- Requiremet-1.N -->
+  <h2>Image</h2>
+    <img src = "https://raw.githubusercontent.com/Ironclad-5/webimage/blob/main/Screenshot%202025-09-21%20231408.png" alt = "Screenshot%202025-09-21%20231408">
 
+<!-- Requirement-.Q -->
+  <h2>Summary</h2>
+  <p> This project is about creating a personal website using Github and putting elements on the website itself. Overall, I have to put in a title for the website, favroite things to do such as either a book or movie, put in images of those, and also putting sources on the preview that leads to Google.  </p>
  <!-- Requirement-1.C -->
   <footer>
     <p>&copy 2025 Website Film. All Rights Reserved</p>
