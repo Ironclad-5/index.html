@@ -54,6 +54,13 @@
       <li>Watching favorite movies</li>
   </ul>
 
+<!-- Requirement-1.L -->
+<figure>
+  <img src = "book.png" alt = "">
+  <!-- Requirement-1.M -->
+  <figcaption>book logo</figcaption>
+</figure>
+
 <!-- Requiremet-1.N -->
   <h2>Image</h2>
     <img src = "https://raw.githubusercontent.com/Ironclad-5/webimage/blob/main/Screenshot%202025-09-21%20231408.png" alt = "Screenshot%202025-09-21%20231408">
