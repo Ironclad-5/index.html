@@ -68,7 +68,7 @@
 <!-- Requirement-1.L -->
 <figure>
   <h2>Figure</h2>
-  <img src = "https://raw.githubusercontent.com/Ironclad-5/index.html/blob/main/Screenshot%202025-09-22%20174735.png" alt = "Paradise Island Book Logo" width = "300">
+  <img src = "https://www.bing.com/images/search?view=detailV2&ccid=Cd2165wr&id=2FA9A798DF91E9C44FA95AE32879BFB87312F4A5&thid=OIP.Cd2165wrGs7Yl4UKGJ4pBAHaLM&mediaurl=https%3A%2F%2Fd28hgpri8am2if.cloudfront.net%2Fbook_images%2Fonix%2Fcvr9781682619490%2Fparadise-island-9781682619490_hr.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.09ddb5eb9c2b1aced897850a189e2904%3Frik%3DpfQSc7i%252feSjjWg%26pid%3DImgRaw%26r%3D0&exph=2114&expw=1399&q=paradise+island+book&FORM=IRPRST&ck=C1621EECEB98B8DDDB478A92DA763276&selectedIndex=0&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0" alt = "Paradise Island Book Logo" width = "300">
   <!-- Requirement-1.M -->
   <figcaption>book logo</figcaption>
 </figure>
