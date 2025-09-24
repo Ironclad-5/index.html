@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-<head> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <!-- Requirement-1.A -->
   <title>First Website</title>
 </head>
@@ -67,14 +68,14 @@
 <!-- Requirement-1.L -->
 <figure>
   <h2>Figure</h2>
-  <img src = "https://raw.githubusercontent.com/Ironclad-5/index.html/blob/main/Screenshot%202025-09-22%20174735.png" alt = "Screenshot 2025-09-22 174735.png">
+  <img src = "https://raw.githubusercontent.com/Ironclad-5/index.html/blob/main/Screenshot%202025-09-22%20174735.png" alt = "Paradise Island Book Logo" width = "300">
   <!-- Requirement-1.M -->
   <figcaption>book logo</figcaption>
 </figure>
 
 <!-- Requiremet-1.N -->
   <h2>Image</h2>
-    <img src = "https://raw.githubusercontent.com/Ironclad-5/webimage/blob/main/Screenshot%202025-09-21%20231408.png" alt = "Screenshot%202025-09-21%20231408">
+    <img src = "https://www.bing.com/images/search?view=detailV2&ccid=LpkFIPXH&id=94FF9DE2953D8AB862EC9F753237C0AEE11F3EF1&thid=OIP.LpkFIPXHuhTsX4whWXf_FAHaEo&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.2e990520f5c7ba14ec5f8c215977ff14%3Frik%3D8T4f4a7ANzJ1nw%26riu%3Dhttp%253a%252f%252fwww.hdwallpapers.in%252fwalls%252fhacksaw_ridge_2016_movie-wide.jpg%26ehk%3DP8GNeqEyUdAGenhMYwt4qJt0JRbni7Xl0I7%252bbHhtncg%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=1800&expw=2880&q=hacksaw+ridge&FORM=IRPRST&ck=1FE76390995A30037DD25CCB99C3440B&selectedIndex=10&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0" alt = "Hacksaw Ridge">
 
 <!-- Requirement-.Q -->
   <h2>Summary</h2>
